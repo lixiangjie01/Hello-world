@@ -1,3 +1,3 @@
 # Hello-world
 Hi,Humans!
-the first repository on github.
+This is the first repository on github.
